@@ -1,7 +1,7 @@
 # Hi, I'm Kripa Goenka 👋
 
 🎓 B.Tech CSE @ MIT World Peace University, Pune (2023–2027)
-🏆 Smart India Hackathon 2025 — Top 50 Teams
+🏆 Smart India Hackathon 2025 — Top 50 Teams (College Level)
 💻 Interested in QA Automation, AI Tools & Backend Systems
 📍 Pune, India | kripagoenka1@gmail.com
 
